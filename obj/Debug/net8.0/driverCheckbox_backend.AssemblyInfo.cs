@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("driverCheckbox_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e70fab10f6bf907ab6ebcb13c74c009cac85871")]
 [assembly: System.Reflection.AssemblyProductAttribute("driverCheckbox_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("driverCheckbox_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
