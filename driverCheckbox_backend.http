@@ -1,0 +1,6 @@
+@driverCheckbox_backend_HostAddress = http://localhost:5032
+
+GET {{driverCheckbox_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
