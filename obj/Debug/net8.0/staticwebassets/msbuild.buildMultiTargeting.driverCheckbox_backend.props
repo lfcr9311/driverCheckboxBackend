@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/driverCheckbox_backend.props" />
-</Project>

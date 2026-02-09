@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/driverCheckbox_backend.props" />
-</Project>
